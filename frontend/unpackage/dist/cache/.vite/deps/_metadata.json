@@ -1,0 +1,15 @@
+{
+  "hash": "dc1b00cc",
+  "configHash": "96edc574",
+  "lockfileHash": "8b4834f9",
+  "browserHash": "7829860f",
+  "optimized": {
+    "goeasy-lite": {
+      "src": "../../../../../node_modules/goeasy-lite/goeasy-lite.esm.min.js",
+      "file": "goeasy-lite.js",
+      "fileHash": "75a95d6f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
